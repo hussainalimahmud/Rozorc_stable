@@ -25,15 +25,14 @@ DNSServer dnsServer;
 // WIFI & SECRETS CONFIG
 //================================================================================================================
 
-//
-
-const char* WIFI_SSID = "";
-const char* WIFI_PASSWORD = "";
+const char* WIFI_SSID = ""; //ADD Your SSID
+const char* WIFI_PASSWORD = ""; //ADD Your Password
 const uint8_t WIFI_CHANNEL = 1;
 const uint8_t MAX_WIFI_CLIENT = 2;
 
-const char* HARDCODED_OTA_PASSWORD = "";
+const char* HARDCODED_OTA_PASSWORD = ""; //ADD Your HARDCODE OTA PASSWORD
 
+//ADD Your RACE Password
 #define RACE_PASSWORD ""
 
 IPAddress activeDriverIP(0, 0, 0, 0);
