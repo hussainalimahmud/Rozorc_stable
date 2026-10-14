@@ -1,5 +1,8 @@
 # 🚗 ROZORC Firmware
 
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C)
+![Framework](https://img.shields.io/badge/Framework-ESP8266-0277BD)
+![PlatformIO](https://img.shields.io/badge/Tools-PlatformIO-f58220)
 Firmware kustom berbasis **ESP8266** untuk mobil *Remote Control* (RC) yang dikendalikan melalui jaringan Wi-Fi lokal menggunakan antarmuka Web UI interaktif berbasis sentuh.
 
 ---
@@ -16,7 +19,7 @@ Firmware kustom berbasis **ESP8266** untuk mobil *Remote Control* (RC) yang dike
 
 ---
 
-## 🛠️ Spesifikasi Hardware & Pinout
+## Spesifikasi Hardware & Pinout
 
 | Komponen | Pin ESP8266 (Wemos D1 Mini / NodeMCU) | Fungsi |
 |---|---|---|
@@ -27,7 +30,7 @@ Firmware kustom berbasis **ESP8266** untuk mobil *Remote Control* (RC) yang dike
 
 ---
 
-## 🔐 Konfigurasi Awal (Default Credentials)
+## Konfigurasi Awal (Default Credentials)
 
 Saat pertama kali di-flash, firmware akan membuat Access Point Wi-Fi dengan kredensial bawaan yang diatur di dalam kode:
 
