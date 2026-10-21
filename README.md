@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/Framework-ESP8266-0277BD)
 ![PlatformIO](https://img.shields.io/badge/Tools-PlatformIO-f58220)
 
-Firmware kustom berbasis **ESP8266** untuk mobil *Remote Control* (RC) yang dikendalikan melalui jaringan Wi-Fi lokal menggunakan antarmuka Web UI interaktif berbasis sentuh.
+Firmware kustom berbasis **ESP8266** untuk mobil *Remote Control* (RC) yang dikendalikan melalui jaringan Wi-Fi lokal menggunakan antarmuka Web UI interaktif berbasis layar sentuh.
 
 ---
 
