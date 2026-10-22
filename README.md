@@ -10,7 +10,7 @@ Firmware kustom berbasis **ESP8266** untuk mobil *Remote Control* (RC) yang dike
 
 ##  Fitur Utama
 
--  **Embedded Web UI Controller**: Tampilan kendali berbasis HTML5/JS yang responsif (full screen, feedback vibrasi, indikator jaringan, dan menu pengaturan).
+-  **Embedded Web UI Controller**: Tampilan kendali berbasis HTML5/JS yang responsif (full screen, indikator jaringan, dan menu pengaturan).
 -  **4-Speed Transmission (Gigi 1–4)**: Pilihan tingkat kecepatan dengan opsi **Safe Mode** dan **Race Mode** (dilindungi password).
 -  **Failsafe System**: Penghentian otomatis motor jika koneksi terputus/kehilangan sinyal dalam jangka waktu tertentu (`800ms`).
 -  **Dynamic Braking System**: Sistem pengereman transisi dinamis saat berpindah arah dari maju ke mundur.
